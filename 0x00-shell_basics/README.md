@@ -1,1 +1,1 @@
-bash script
+This is my shell readme
