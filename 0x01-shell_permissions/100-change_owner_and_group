@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod change_vincent_and_staff
+chown -hR vincent:staff .
